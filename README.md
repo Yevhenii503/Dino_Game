@@ -1,0 +1,1 @@
+It is my try write clone game "Chrome Dino"
